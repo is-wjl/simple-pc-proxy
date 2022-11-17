@@ -1,0 +1,23 @@
+{
+  "name": "simple-web-proxy",
+  "version": "0.2.0",
+  "auther": "erguotou525@gmail.com",
+  "description": "A nodejs web proxy server to proxy over socks",
+  "homepage": "https://github.com/erguotou520/simple-web-proxy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erguotou520/simple-web-proxy.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "socks": "1.x"
+  },
+  "bugs": {
+    "url": "https://github.com/erguotou520/simple-web-proxy/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
